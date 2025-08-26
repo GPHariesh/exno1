@@ -45,4 +45,5 @@ STEP 6: Use zscore of to remove outliers
 <img width="590" height="455" alt="Screenshot 2025-08-26 225215" src="https://github.com/user-attachments/assets/cac4a979-854d-4ccd-8a9e-70b75f3a114f" />
 
 # Result
- 
+
+Thus the data cleaning process and outlier detection and removal on the given dataset is executed successfully.
